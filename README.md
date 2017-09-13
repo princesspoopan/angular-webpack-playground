@@ -1,6 +1,6 @@
 # angular-webpack-playground
 
-TODO: https://damienbod.com/2017/02/01/hot-module-replacement-with-angular-2-and-webpack/
+TODO: https://github.com/honestica/angular-hot-reloader
 
 ### How to run
 - `yarn`
